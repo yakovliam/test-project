@@ -1,5 +1,7 @@
 {
-  "issues": {},
+  "issues": {
+    "fbe2eb23-02b7-48d3-bc28-47fdd19ae8f8": "issues/ca27-1.md"
+  },
   "docs": {
     "f3ed8dd7-3218-4a67-8b50-4a061b877ba6": "docs/testtitle.md"
   },
