@@ -3,5 +3,7 @@
   "docs": {
     "f3ed8dd7-3218-4a67-8b50-4a061b877ba6": "docs/testtitle.md"
   },
-  "sprints": {}
+  "sprints": {
+    "a6ffcbf6-e12d-480e-a86a-48dec150ffbd": "sprints/Test Sprint 1/sprint.yaml"
+  }
 }
